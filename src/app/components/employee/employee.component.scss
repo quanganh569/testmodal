@@ -1,0 +1,9 @@
+.my-pagination  .ngx-pagination .current {
+    background: red;
+  }
+
+.simple-form input.ng-invalid.ng-dirty.ng-touched{border:1px solid red;}
+
+.simple-form .noHover{
+  pointer-events: none;
+}

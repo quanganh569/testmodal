@@ -1,0 +1,23 @@
+export class Employee{
+    id:number;
+    Name:string;
+    Email:string;
+    Phone:string;
+    Address:string;
+    Avatar:any;
+    constructor(
+        id:number,
+        Name:string,
+        Email:string,
+        Phone:string,
+        Address:string,
+        Avatar:any,
+    ){
+        this.id=id;
+        this.Name=Name;
+        this.Email=Email;
+        this.Phone=Phone;
+        this.Address=Address;
+        this.Avatar=Avatar;
+    }
+}
