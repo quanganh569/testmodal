@@ -1,4 +1,4 @@
-Highcharts.maps["countries/vn/vn-all"] = {
+Highcharts.maps["vn/vn-all"] = {
     "title": "Vietnam",
     "version": "1.1.3",
     "type": "FeatureCollection",
